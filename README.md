@@ -1,6 +1,6 @@
 Grammarly's Yahoo Answers Formality Corpus (GYAFC)
 
-Dear Sir or Madam, May I introduce the GYAFC Corpus: Corpus, Benchmarks and Metrics for Formality Style Transfer
+Dear Sir or Madam, May I introduce the GYAFC Corpus: Corpus, Benchmarks and Metrics for Formality Style Transfer <br/>
 
 Sudha Rao (raosudha@cs.umd.edu) and Joel Tetreault (joel.tetreault@grammarly.com)
 
